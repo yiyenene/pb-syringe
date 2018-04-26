@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    pb_syringe (0.1.0)
-      ansi (~> 1.5)
+    pb_syringe (0.1.1)
+      ansi (>= 1.5)
 
 GEM
   remote: https://rubygems.org/
